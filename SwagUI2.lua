@@ -1332,6 +1332,8 @@ do
 			g = 255,
 			b = 255
 		}
+
+        print("😛Swag Made This😛")
 		
 		self.colorpickers[colorpicker] = {
 			tab = tab,
@@ -2168,5 +2170,4 @@ do
 	end
 end
 
-print("dino was here :\)")
 return library
