@@ -1333,8 +1333,6 @@ do
 			b = 255
 		}
 
-        print("😛Swag Made This😛")
-		
 		self.colorpickers[colorpicker] = {
 			tab = tab,
 			callback = function(prop, value)
@@ -2169,5 +2167,5 @@ do
 		end
 	end
 end
-
+print("😛Swag Made This")
 return library
