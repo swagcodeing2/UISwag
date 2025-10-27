@@ -97,7 +97,7 @@ function Library:Create(xHubName,xGameName)
 
     Filler.Name = "Filler"
     Filler.Parent = Sidebar
-    Filler.BackgroundColor3 = Color3.fromRGB(15,15,15)
+    Filler.BackgroundColor3 = Color3.fromRGB(15,70,70)
     Filler.BorderSizePixel = 0
     Filler.Position = UDim2.new(0.930769145, 0, 0, 0)
     Filler.Size = UDim2.new(0, 9, 0, 370)
